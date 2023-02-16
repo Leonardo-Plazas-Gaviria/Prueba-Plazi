@@ -10,6 +10,7 @@ Con el editor online [Editor.md](http://https://pandao.github.io/editor.md/en.ht
 **Ademas De Agregar Imagenes Y otras caracteristicasCaracteristicas**
 *Prueba de cherry-pick
 *segundo cambio
+*Tercer cambio
 
 ~~Por ejemplo~~
 [![Oso Polar](https://imgur.com/gallery/1qqVnuf "Oso Polar")](https://imgur.com/gallery/1qqVnuf "Oso Polar")
